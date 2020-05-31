@@ -1,2 +1,2 @@
 # Snake-Game
-Simple snake game using HTML, CSS &amp; JavaScript
+The SNAKE GAME using HTML, CSS &amp; JavaScript
